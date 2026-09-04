@@ -1,6 +1,0 @@
-streamlit
-huggingface_hub
-python-dotenv
-torch
-transformers
-pillow
